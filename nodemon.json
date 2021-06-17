@@ -1,0 +1,8 @@
+{
+  "env": {
+    "JWT_KEY": "This_Secret_should_be_longer_and_in_env_file",
+    "MONGO_URI": "@cluster0.h9rgh.mongodb.net/myFirstDatabase",
+    "MONGO_USER": "anubmish",
+    "MONGO_PW": "l7H3apTwoCrY3b2f"
+  }
+}
