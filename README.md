@@ -1,4 +1,15 @@
-# Groundplay
+# BlogPost
+
+This is a blog post project developed on MEAN stack.
+
+#How to run
+
+1. clone this Repo
+2. execute npm install to download dependencies
+3. execute npm run start-server to start the backend in one terminal
+4. execute ng serve in another terminal to start front end
+
+#Angular CLI version
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
